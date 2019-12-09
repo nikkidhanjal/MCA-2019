@@ -15,11 +15,13 @@ In the example of Spotify, the data is presented as the 'Title', 'Artist', 'Albu
 I have chosen the piece 'Casper's Lullaby' by James Horner, from the movie Casper. 
 
 MuseScore File
-Casper's Lullaby MuseScore File: (https://github.com/nikkidhanjal/MCA-2019/blob/master/caspers-lullaby.mscz)
+https://github.com/nikkidhanjal/MCA-2019/blob/master/caspers-lullaby.mscz
+
 
 <h1>WEEK3: Encoding Notated Music</h1>
 MusicXML File
 https://github.com/nikkidhanjal/MCA-2019/blob/master/data/caspers-lullaby.musicxml
+
 MEI File
 https://github.com/nikkidhanjal/MCA-2019/blob/master/data/caspers-lullaby.mei
 
