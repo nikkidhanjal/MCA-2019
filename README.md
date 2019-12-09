@@ -9,3 +9,7 @@ Considering much of these pieces have been created by composers, there are alrea
 There already exist datasets for movie scores, for example in the form of Spotify playlists, such as playlists for particular movies or composers, or compilations like "Film Scores and Soundtracks - Best Of". There are also databases online, which allow you to browse and discover music in relation to this theme, for example compiled lists of scores, such as Classic FM's '25 best film scores from the passt 25 years'. 
 
 In the example of Spotify, the data is presented as the 'Title', 'Artist', 'Album', date of upload and duration of song. In the example of the Classic FM list, data is presented as the title, composer, and year of production. 
+
+<h1>WEEK 2: Notated Music</h1>
+I have chosen the piece 'Casper's Lullaby' by James Horner, from the movie Casper. 
+
