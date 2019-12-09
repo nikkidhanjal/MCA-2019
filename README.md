@@ -10,12 +10,16 @@ There already exist datasets for movie scores, for example in the form of Spotif
 
 In the example of Spotify, the data is presented as the 'Title', 'Artist', 'Album', date of upload and duration of song. In the example of the Classic FM list, data is presented as the title, composer, and year of production. 
 
+
 <h1>WEEK 2: Notated Music</h1>
 I have chosen the piece 'Casper's Lullaby' by James Horner, from the movie Casper. 
-<h2>MuseScore File</h2>
-Casper's Lullaby MuseScore File:(https://github.com/nikkidhanjal/MCA-2019/blob/master/caspers-lullaby.mscz)
+
+MuseScore File
+Casper's Lullaby MuseScore File: (https://github.com/nikkidhanjal/MCA-2019/blob/master/caspers-lullaby.mscz)
 
 <h1>WEEK3: Encoding Notated Music</h1>
-<h2>MusicXML file</h2>
-
+MusicXML File
+https://github.com/nikkidhanjal/MCA-2019/blob/master/data/caspers-lullaby.musicxml
+MEI File
+https://github.com/nikkidhanjal/MCA-2019/blob/master/data/caspers-lullaby.mei
 
