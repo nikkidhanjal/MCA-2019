@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE feature_vector_file [
+   <!ELEMENT feature_vector_file (comments, data_set+)>
+   <!ELEMENT comments (#PCDATA)>
+   <!ELEMENT data_set (data_set_id, section*, feature*)>
+   <!ELEMENT data_set_id (#PCDATA)>
+   <!ELEMENT section (feature+)>
+   <!ATTLIST section start CDATA ""
+                     stop CDATA "">
+   <!ELEMENT feature (name, v+)>
+   <!ELEMENT name (#PCDATA)>
+   <!ELEMENT v (#PCDATA)>
+]>
+
+<feature_vector_file>
+
+   <comments></comments>
+
+	<data_set>
+		<data_set_id>C:\Users\Nikki\Documents\Uni Y3\MCA\caspers-lullaby.mid</data_set_id>
+		<feature>
+			<name>Number of Pitches</name>
+			<v>3.5E1</v>
+		</feature>
+		<feature>
+			<name>Number of Pitch Classes</name>
+			<v>9E0</v>
+		</feature>
+		<feature>
+			<name>Range</name>
+			<v>5.3E1</v>
+		</feature>
+		<feature>
+			<name>Mean Pitch</name>
+			<v>6.6E1</v>
+		</feature>
+		<feature>
+			<name>Mean Pitch Class</name>
+			<v>5.506E0</v>
+		</feature>
+		<feature>
+			<name>Most Common Pitch</name>
+			<v>8.1E1</v>
+		</feature>
+		<feature>
+			<name>Most Common Pitch Class</name>
+			<v>9E0</v>
+		</feature>
+		<feature>
+			<name>Interval Between Most Prevalent Pitches</name>
+			<v>1.9E1</v>
+		</feature>
+		<feature>
+			<name>Pitch Variability</name>
+			<v>1.263E1</v>
+		</feature>
+		<feature>
+			<name>First Pitch</name>
+			<v>6.4E1</v>
+		</feature>
+		<feature>
+			<name>Last Pitch</name>
+			<v>6.6E1</v>
+		</feature>
+		<feature>
+			<name>Most Common Melodic Interval</name>
+			<v>3E0</v>
+		</feature>
+		<feature>
+			<name>Repeated Notes</name>
+			<v>5.556E-3</v>
+		</feature>
+		<feature>
+			<name>Chord Type Histogram</name>
+			<v>2.897E-1</v>
+			<v>1.332E-1</v>
+			<v>1.758E-1</v>
+			<v>1.929E-2</v>
+			<v>1.287E-2</v>
+			<v>3.212E-1</v>
+			<v>0E0</v>
+			<v>0E0</v>
+			<v>5.401E-3</v>
+			<v>4.256E-2</v>
+			<v>0E0</v>
+		</feature>
+	</data_set>
+
+</feature_vector_file>
