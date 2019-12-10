@@ -5,10 +5,58 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>One Last Wish</title>
-                <respStmt />
+                <title>Casper's Lullaby</title>
+                <title type="subtitle">
+                  <identifier>From Casper</identfier>
+                </title>
+                <composer>James Horner</composer>
+                <respSTmt>
+                  <resp>Encoded by</resp>
+                  <resp>Nikita Dhanjal</resp>
+                <respStmt/>
             </titleStmt>
-            <pubStmt></pubStmt>
+            <editionStmt>
+              <title>Casper's Lullaby</title>
+              <editor>James Horner</title>
+              <date>1995</date>
+              <respStmt>
+                <resp>Published by</resp>
+                <corpName role="pbl">Universal Music Publishing Group</corpName>
+              </respSTmt>
+            </editionStmt>
+            <pubStmt>
+              <publisher>
+                <corpName>Universal Music Publishing Group</corpName>
+              </publisher>
+              <address>
+                <addrLine>
+                  <geogName>Santa Monica</geogName>
+                </addrLine>
+                <addrLine>
+                  <geogName>California</geogName>
+                </addrLine>
+                <addrLine>
+                  <geogName>United States of America</geogName>
+                </addrLine>
+              </address>
+              <date>1995</date>
+              <availability>
+                <distributor authURI="https://www.musicnotes.com/">
+              authority="MusicNotes">Music Notes</distributor>
+                <price>3.99</price>
+              </availability>
+            </pubStmt>
+            <seriesStmt>
+              <title>Music Curation and Analytics Encoded Music Collection</title>
+              <title type="subtitle">
+                <identfier>Collection of Film Scores</identfier>
+              </title>
+              <editor>Nikita Dhanjal</editor>
+              <identfier>MCA-2019</identfier>
+              <content>
+                <p>Casper's Lullaby</p>
+              </content>
+            </seriesStmt>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000001069454351">
             <appInfo xml:id="appinfo-0000001990074665">
