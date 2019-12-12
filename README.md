@@ -25,3 +25,6 @@ https://github.com/nikkidhanjal/MCA-2019/blob/master/data/caspers-lullaby.musicx
 MEI File
 https://github.com/nikkidhanjal/MCA-2019/blob/master/data/caspers-lullaby.mei
 
+
+<h1>WEEK8: Music as Sound</h1>
+The fundamental difference between waveforms and spectograms is that waveforms present data in a graph of time against amplitude, whereas spectograms present data in a graph of time against frequency. Waveforms only include basic information about amplitude, such as when audio is loud and quieter, but not much else. Spectograms, on the other hand, show more information about the sound, such as frequency, which represents pitch.
