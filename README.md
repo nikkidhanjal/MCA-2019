@@ -28,3 +28,10 @@ https://github.com/nikkidhanjal/MCA-2019/blob/master/data/caspers-lullaby.mei
 
 <h1>WEEK8: Music as Sound</h1>
 The fundamental difference between waveforms and spectograms is that waveforms present data in a graph of time against amplitude, whereas spectograms present data in a graph of time against frequency. Waveforms only include basic information about amplitude, such as when audio is loud and quieter, but not much else. Spectograms, on the other hand, show more information about the sound, such as frequency, which represents pitch. For example, using the third song example, "ID_03", the heat mappings against pitch show a lot of the frequencies are within the middle frequency range.
+
+<h1>WEEK 9: Extracting Meaning from Audio</h1>
+Comparing histograms for MFCC for all three audio tracks:
+For ID05, most of the histograms are relatively symmetrical rather than skewed.
+For ID04, the histograms vary, being skewed to the right, or fairly symmetrical. 
+For ID06, the histograms start by being skewed to the right, then become more symmetrical.
+These histograms show the shape of the data, so the vastly altering heights of the bars across all three suggest a range of data points, so a range of different amplitudes from the MFCC analysis, across the three songs. 
