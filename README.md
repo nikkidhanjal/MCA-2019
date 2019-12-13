@@ -35,3 +35,6 @@ For ID05, most of the histograms are relatively symmetrical rather than skewed.
 For ID04, the histograms vary, being skewed to the right, or fairly symmetrical. 
 For ID06, the histograms start by being skewed to the right, then become more symmetrical.
 These histograms show the shape of the data, so the vastly altering heights of the bars across all three suggest a range of data points, so a range of different amplitudes from the MFCC analysis, across the three songs. 
+
+<h1>WEEK 10: Similarity and Transcription</h1>
+Comparing the original Casper's Lullaby composition, and the transcribed piano roll version created in SonicVisualiser, it was instantly noticeable that the automatic transcription was not accurate. The pitch of the second version had changed drastically, such that the songs did not sound the same. The melody was kept fairly intact. The rhythm stayed the same.
